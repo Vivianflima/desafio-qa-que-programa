@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> c7ab1796d6393ed1db74aefe3e841c8d8b04fe7e
 # Desafio QA Que Programa - Desafio 3
 
 ## Dia 3: Verificador de Palíndromos
