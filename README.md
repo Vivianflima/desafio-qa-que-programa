@@ -1,8 +1,7 @@
 # Desafio QA Que Programa - 21 Dias Resolvendo Desafios de Programação
 
-Olá pessoal!
 
-Estou empolgada em participar do Desafio QA Que Programa, proposto por Paulo Oliveira (https://github.com/paulocoliveira/desafio-qa-que-programa). O desafio consiste em resolver, diariamente, desafios de programação (básico/intermediário) ao longo de 21 dias, incluindo fins de semana.
+Estou participando do Desafio QA Que Programa, proposto por Paulo Oliveira (https://github.com/paulocoliveira/desafio-qa-que-programa). O desafio consiste em resolver, diariamente, desafios de programação (básico/intermediário) ao longo de 21 dias, incluindo fins de semana.
 
 ## Detalhes do Desafio
 
