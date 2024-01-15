@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> c7ab1796d6393ed1db74aefe3e841c8d8b04fe7e
 # Desafio QA Que Programa - Desafio 4
 
 ## Dia 4: Contador de Palavras
