@@ -1,4 +1,3 @@
-```markdown
 # Desafio QA Que Programa - Desafio 4
 
 ## Dia 4: Contador de Palavras
@@ -37,4 +36,3 @@ Você pode então realizar alguns testes em seu script. Execute seu script vári
 - **TESTE 09:** "Oi" -> O texto contém 1 palavra.
 
 Sinta-se à vontade para realizar outros testes caso ache necessário. 
-```
