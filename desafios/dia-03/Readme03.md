@@ -1,4 +1,4 @@
-```markdown
+
 # Desafio QA Que Programa - Desafio 3
 
 ## Dia 3: Verificador de Palíndromos
